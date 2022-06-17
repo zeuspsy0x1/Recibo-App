@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recibo-App/static/css/main.79140954.css",
+    "main.js": "/Recibo-App/static/js/main.62e3f51f.js",
+    "static/js/787.35a97f88.chunk.js": "/Recibo-App/static/js/787.35a97f88.chunk.js",
+    "index.html": "/Recibo-App/index.html",
+    "main.79140954.css.map": "/Recibo-App/static/css/main.79140954.css.map",
+    "main.62e3f51f.js.map": "/Recibo-App/static/js/main.62e3f51f.js.map",
+    "787.35a97f88.chunk.js.map": "/Recibo-App/static/js/787.35a97f88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79140954.css",
+    "static/js/main.62e3f51f.js"
+  ]
+}
